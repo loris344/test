@@ -1,0 +1,269 @@
+
+<!DOCTYPE HTML>
+<html lang='fr'>
+<head>
+    <title>Habboz : Le nouveau Habbo ! Rencontre de nouveaux amis habbo et amuse toi.</title>
+    <meta charset="UTF-8">
+    <meta name="robots" content="index,follow,all" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Crée ton avatar Habbo, connecte-toi gratuitement sur Habboz et rejoins une communauté Habbo extraordinaire comme Habbocity, Habbix ou Wibbo.">
+    <meta name="keywords" content="Habboz, Habbo, Habbocity, Habbix, Wibbo, rétro habbo, habbo retro, habbo hotel, jeu comme habbo, habbo gratuit, bobbahotel, habbo 2020, city, alpha, omega, delta">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico">
+    <link rel="preload" as="style" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <meta property="og:site_name" content="Habboz"/>
+    <meta property="og:title" content="Habboz: Jeu social en ligne, fais toi des amis et amuse toi."/>
+    <meta property="og:url" content="https://www.habboz.ws/"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="Inscris-toi et rejoins GRATUITEMENT Habboz! Tu pourras rencontrer de nouveaux amis, participer à des jeux, tchatter, créer ton avatar, construire des salles et bien plus encore..."/>
+    <meta property="og:image" content="https://www.habboz.ws/assets/img/HabbozPreview-min.png"/>
+    <meta property="og:image:width" content="512" />
+    <meta property="og:image:height" content="512" />
+    <meta property="og:locale" content="fr-FR"/>
+    <meta name="language" content="fr-FR"/>
+    <meta name="twitter:title" content="Habboz: Jeu social en ligne, fais toi des amis et amuse toi."/>
+    <meta name="twitter:description" content="Inscris-toi et rejoins GRATUITEMENT Habboz! Tu pourras rencontrer de nouveaux amis, participer à des jeux, tchatter, créer ton avatar, construire des salles et bien plus encore..."/>
+    <meta name="hreflang" content="fr-FR"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:image:src" content="https://www.habboz.ws/assets/img/HabbozPreview-min.png"/>
+    <meta name="twitter:domain" content="https://www.habboz.ws"/>
+    <meta name="twitter:site" content="@Habbozws"/>
+    <link rel="canonical" href="https://www.habboz.ws/" hreflang='fr-FR' />
+    <meta name="Geography" content="France" />
+    <meta name="country" content="France" />
+    <meta hreflang="FR" name="Language" content="French" />
+    <link rel='dns-prefetch' href='https://www.habboz.ws/' />
+    <meta name="Habbo" content="Habbo"/>
+    <meta name="Habboz" content="Habboz"/>
+    <meta name="identifier-url" content="https://www.habboz.ws/"/>
+    <meta name="category" content="Habbo">
+    <meta name="Author" content="Meteor"/>
+    <meta name="Copyright" content="Habboz"/>
+    <meta name="google-site-verification" content="aI0zVCy66ZpV2ckBe150WXFP8QQf1F9s0U7nwubeTS0" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512"  href="/android-chrome-512x512.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <script type="application/ld+json">
+        { 
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Habboz",
+            "url": "https://www.habboz.ws",
+            "logo": "https://www.habboz.ws/assets/img/HabbozPreview-min.png",
+            "sameAs" : [
+                "https://www.instagram.com/habbozoff/",
+                "https://twitter.com/HabbozOff",
+                "https://www.tiktok.com/@habbozoff",
+                "https://www.habboz.ws/discord"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.7",
+                "reviewCount": "622"
+            },
+            "review": {
+                "@type": "Review",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "4.7"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "Guillaume"
+                },
+                "datePublished": "2023-02-19",
+                "reviewBody": "J'adore Habboz ! La communauté est super et le site est agréable à utiliser. Laisse ton avis sur https://www.habboz.ws/reviews"
+            }
+        }
+        </script>
+
+    <link rel="stylesheet" href="assets/css/meteor2-index.min.css?u5778">
+</head>
+<body>
+<div class="habbozDesc">
+    <meteor-content class='max-width fz-130'>
+        <h1>Habbo rétro gratuit largement supérieur à Habbocity</h1>
+        <p><span><strong>Habbo</strong></span> est un jeu en ligne et un réseau social totalement gratuit créé pour les joueurs de tout âges. Notre but est de fonder une communauté où tout le monde peut s'amuser et se parler, faire des rencontres, se faire des amis ou même rencontrer l'amour.</p>
+        <p>
+            As-tu entendu parler de Habboz ? C'est la nouvelle communauté Habbo où tu pourras t'exprimer librement et sans aucune limitation. Les groupes Habbo, forums Wibbo et les jeux de rôles Habbix te permettent de vivre tes passions. Inscris-toi et commence à explorer les possibilités infinies de rôle! Et contrairement à Habbocity, Habboz offre un système wired performant et des nouveautés exclusives.        </p>
+        <h2>Habbocity c'est fini, rejoins la nouvelle communauté habbo sur Habboz.</h2>
+        <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAApCAYAAACcGcHqAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABwElEQVR42u3Zu03EQBAGYDfiBiiCAiiBAFogogLkgJQMOiGkAicExBYNIDkGrcXo9sbz3Nm1kfBKf3C6m/N8suX1ervvr65bYh3we5xofSC+BrhGovVhRDbSRylkI9H6mgg40DzPZHAjfd9/5oji+toIroG8kbyJpZFo/YE4EAfiQPwPxDRNbGojikcEkSI1sRmCgGyOiISDuBAAoQKXnAXx8vFeFO6xxY2wRENcPj64QyEAsgvi9u317yM4CCAubq4XCJcQYhxHNjUgOYJL+ExIiFJcLUT6rhqCGxaI5TbqARQh0hiGgYwE0SY77a5VFcEBINIlps3YpWehGYKDrCYrBdAMwV3LLRAWgBuhXQ7anYuqj56F5ggM8SCsgBCCWk9ocwlGeM6CeT3RCgEQK4IFWNYTWyI0gLqm2AOB61nE/Z0YCnKGSEOarTWEtV5bU1gR5IwNjw/UgDlCQljqrQsjCnD1/ET2sEJIsSC0eniKTQ15w912d0OURkVIjVD7CxhhqW+K8O70YIS1vtZrm3wGL9pzWz0CbDzy458QjkbwHxRvPlYCnHZPf4N/oAVP/976aM63gAsa4d5Qbw1I+QEQJ2C8FTmhDwAAAABJRU5ErkJggg==' width="49" height="41" alt='habbocity' title='habbocity' />
+
+        <p>Habboz est bien mieux que habbocity sur de nombreux points. Par exemple, nous proposons un meilleur système wired que habbocity ainsi que plein de nouveautés et d'innovations exclusives meilleure que habbix ou wibbo.</p>
+        <p>Donc, tu aimes discuter et sortir avec tes amis? Les groupes Habbo, forums wibbo et les jeux de rôles habbix, c'est la direction à prendre pour commencer. Rejoins l'armée pour faire ton devoir, enfiler ta cape Batman comme habbocity et sauver Habboz; porte les créations Habbo Couture pour te pavaner sur la piste ou deviens une infirmière wibbo et sauve des vies. Inscris-toi et commence à explorer les possibilités infinies de rôle!</p>
+        <p>La créativité et l'originalité sont les bienvenues sur Habbo ! C'est pour cela que Habbix wibbo habbo alpha bobbahotel et habbocity ne sont que de pales copies. Chaque semaine, nous avons de supers compétitions que tu peux rejoindre. Des constructions d'apparts, des vidéos style pixel-art et compétitions d'écriture - une tonne de trucs cools t'attendent pour laisser libre-court à ton élan artistique et gagner quelques winwin + prix! Tu es prêt? Consulte les news pour avoir plus d'infos sur la compétition du moment!</p>
+        <strong>JOUE GRATUITEMENT, POUR TOUJOURS.</strong>
+        <p>Habbo est un jeu gratuit en ligne donc tu peux explorer un vaste monde de salles, quêtes, discuter et gagner des prix, sans jamais avoir à payer! Tu peux explorer un vaste monde de salles, de quêtes, de jeux et discuter avec des personnes du monde entier. C'est bien mieux que Habbocity, Wibbo, Habbix, ou Bobbahotel.</p>
+        <strong>TOUJOURS LÀ POUR AIDER…</strong>
+        <p>
+            Habboz est le meilleur Habbo rétro, engagé à fournir de la qualité à ses joueurs depuis des années. Nous nous démarquons notamment par nos fonctionnalités uniques et exclusives. Habbo Rétro avec les crédits gratuit, largement mieux que habbocity ou habbix, bobbahotel, wibbo ou habbo city, habbo love, hobba ou encore habbocity. Entre dans le futur de Habbo est surveillé à longueur de journée. Tu peux aussi faire beaucoup de choses pour rester en sécurité. Consulte les Conseils de sécurité pour savoir quoi faire et ne pas tomber dans la médiocrité comme Wibbo, Habbix, Habbocity ou Bobbahotel.            <br>
+            En tant que communauté en ligne reconnue, nous sommes fiers d'avoir une connaissance importante des règles de sécurités pour une navigation sûre, suivant les lignes directrices internationales établies par des groupes gouvernementaux et des organisations de protection de l'adolescence.<br>Nous nous démarquons de nos concurrents (tels que Habbocity Habbix ou Wibbo) en proposant du contenu de qualité et un développement constant.        </p>
+        <p>Viens sur Habboz, un monde sans limite et totalement gratuit. Rejoins-nous maintenant!</p>
+        <p>
+            Habbo est un jeu vidéo social en ligne passionnant qui permet aux joueurs de se connecter et d’interagir avec d’autres joueurs du monde entier.
+            Habbo vise à offrir aux joueurs une expérience unique et divertissante. Habboz est le nom du jeu, Habbo city et Wibbo sont deux des différents mondes offerts dans le jeu.
+            Wibbo est une variation du jeu qui propose des jeux et des activités supplémentaires.
+        </p>
+        <p>
+            Habboz offre aux joueurs Habbo une variété de mondes à explorer, chacun avec des caractéristiques différentes.
+            Les joueurs de Habbocity peuvent rejoindre Habboz afin de se socialiser avec des amis, jouer à des jeux, décorer leur propre chambre, et bien plus encore.
+            Chaque mode de jeu possède sa propre atmosphère et ses propres activités, et ils sont tous amusants et interactifs.
+        </p>
+        <p>
+            Habbo est un jeu convivial et sûr, ce qui en fait un excellent endroit pour les jeunes afin de se divertir et de se connecter.
+            Les joueurs de Wibbo peuvent être sûrs que leur sécurité et leur confidentialité sont toujours respectées sur Habboz.
+            Les animateurs du jeu Habbo sont toujours là pour aider et superviser les activités.
+            Les joueurs peuvent également se connecter avec leurs amis sur les réseaux sociaux City Habboz et s’amuser ensemble.
+        </p>
+        <p>
+            Habboz est un habbo rétro divertissant qui offre aux joueurs une multitude de mondes à explorer, ainsi que des jeux et des activités passionnants.
+            Les mondes Habbocity et Wibbo offrent aux joueurs des expériences sociales, tandis que Wibbo propose des jeux supplémentaires et des activités amusantes.
+            Habboz est un jeu sûr et convivial qui est idéal pour les jeunes qui veulent se divertir et se connecter sur Habbo avec leurs amis.
+        </p>
+    </meteor-content>
+</div>
+
+<div class="screenview">
+
+<div id="loader" style="display: none;">
+    <div class="loader loader-cyb">
+        <div id="loaderLogo"></div>
+    </div>
+</div>
+
+    
+<meteor-content class='max-width flexed'>
+	<div class='loginBox rounded'>
+		<div class="logo">
+		<h3><a href='https://www.habboz.ws'>Habbo</a></h3>
+		</div>
+
+		<div class="boxContent" id="loginForm">
+            <form action="login" method="post">
+                <label>
+                    Nom d'utilisateur: <br />
+                    <input class='meteorInput rounded' type="text" name="username" style="margin-bottom: 15px;">
+                </label>
+                <br>
+                <label>
+                    Mot de passe: <br />
+                    <input class='meteorInput rounded' type="password" name="password">
+                </label>
+                <br>
+                <div class="button-passwd-reset" onclick="openPasswdReset()">
+                    Mot de passe oublié?                </div>
+                <br />
+
+                <label>
+                    <input type="checkbox" checked="checked" disabled="">
+                    Se souvenir de moi.                </label>
+
+				<button type="submit" class="meteorButton rounded" style="margin-top: 15px;">Connexion</button>
+                <div class="meteorButton mobileRegBtn rounded" style="display: none;" id="buttonSwitch" onclick="switchLoginBox();">Inscription</div>
+			</form>
+		</div>
+
+        <div class="boxContent" id="registerForm" style="display:none;">
+            <form action="register" method="post">
+                <label>
+                    Nom d'utilisateur: <br />
+                    <input class='meteorInput rounded' placeholder="" type="text" name="reg_username">
+                </label><br />
+
+                <label>
+                    Mot de passe: <br />
+                    <input class='meteorInput rounded' placeholder="" type="password" name="reg_password">
+                </label><br />
+
+                <label>
+                    Adresse mail: <br />
+                    <input class='meteorInput rounded' placeholder="exemple@habboz.ws" type="email" name="reg_mail">
+                </label>
+                <br />
+                <div style="margin-top: 10px">
+                    <label>
+                        <input type="checkbox" checked="checked" disabled="">
+                        J'accepte les CGUs.
+                    </label>
+                </div>
+
+
+                <button type="submit" class="meteorButton rounded g-recaptcha"
+                        data-sitekey="6LcOczoUAAAAAJqCAfS1VW6mYnNL-XHXD70245HN"
+                        data-callback="onSubmit" style="margin-top: 10px;">Inscription</button>
+
+
+                <div class="meteorButton mobileRegBtn rounded" style="display: none;" id="buttonSwitch" onclick="switchLoginBox();">Retour</div>
+            </form>
+        </div>
+
+	</div>
+
+	<div class='partRight rounded flexed'>
+		<div class="registerButton rounded" id="buttonSwitch" onclick="switchLoginBox();">Inscris-toi maintenant !</div>
+	</div>
+</meteor-content>
+
+<footer class="rounded max-width">
+	<div id="meteorLogo"></div>
+	<div class="meteorFooter" style="overflow: hidden;">
+		<a href="https://www.habboz.ws/">Habboz</a> | <a href="https://www.habboz.ws/community">Communauté</a> | <a href="https://www.habboz.ws/forum">Forum</a> | <a href="https://www.habboz.ws/papers/PrivacyPolitics">Confidentialité</a> | <a href="https://www.habboz.ws/papers/cgu">CGU</a> | <a target="_blank" href="https://www.google.fr/">Google</a> | <a target="_blank" href="https://www.instagram.com/habbozoff/">Instagram</a> | <a target="_blank" href="https://www.tiktok.com/@habbozoff">TikTok</a>
+		<br><br>
+
+		Habboz est un projet indépendant à but non-lucratif.        Habboz utilise une technologie privée nommée Meteor pour l'hôtel, le site et le client. &copy; 2011 - 2025, Habboz Foundation.
+	</div>
+</footer>
+
+<meteor-password-modal style="display: none;">
+    <div class="modalContent rounded">
+        <div class="modalHeader">
+            <h2>Mot de passe oublié?</h2>
+        </div>
+        <div class="modal-close" onclick="cancelPasswdReset()"></div>
+        <div class="modalBody">
+            <form action="forgot" method="post">
+                <label>
+                    <p>Indique nous ton pseudo et ton adresse mail. Nous t'enverrons un token pour créer un nouveau mot de passe.</p> <br />
+                    <input class='meteorInput rounded' type="text" placeholder="Nom d'utilisateur" name="reset_username">
+                    <input class='meteorInput rounded' type="email" placeholder="Adresse mail" name="reset_email">
+                </label><br />
+                <button type="submit" style="width: 500px;" class="meteorButton rounded">Valider</button>
+            </form>
+        </div>
+    </div>
+</meteor-password-modal>
+
+            <script src="https://www.habboz.ws/assets/js/vendor/jquery-2.1.1.min.js" type="text/javascript"></script>
+        <script src="https://www.habboz.ws/assets/js/sweetalert.min.js" type="text/javascript"></script>
+                <script src="https://www.habboz.ws/assets/js/new/meteor2-login.min.js?u2602" type="text/javascript"></script>
+            
+    <script defer type="text/javascript">
+        function onSubmit(token)
+        {
+            Submitter(token);
+            grecaptcha.reset();
+        }
+    </script>
+
+</div>
+</body>
+</html>
